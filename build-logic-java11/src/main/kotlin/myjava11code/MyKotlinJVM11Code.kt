@@ -1,0 +1,3 @@
+package myjava11code
+
+interface MyKotlinJVM11Code
